@@ -4,6 +4,7 @@ public class Hello {
 
         System.out.println("hi");
         // line 1
+        // line 2
 
     }
 
